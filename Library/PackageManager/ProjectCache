@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637620570721724170
-    m_Hash: 861297420
+      ticks: 637621480719311605
+    m_Hash: 3049411736
   m_LockFileStatus:
     m_FilePath: D:/ArdaBerkInan_QAEngineerChallenge_Unity/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637620570839063683
-    m_Hash: 152561015
+      ticks: 637621480719421551
+    m_Hash: 3733615687
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -121,12 +121,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.addressables@1.8.4
+    - packageId: com.unity.addressables@1.16.19
       testable: 0
       isDirectDependency: 1
-      version: 1.8.4
+      version: 1.16.19
       source: 1
-      resolvedPath: D:\ArdaBerkInan_QAEngineerChallenge_Unity\Library\PackageCache\com.unity.addressables@1.8.4
+      resolvedPath: D:\ArdaBerkInan_QAEngineerChallenge_Unity\Library\PackageCache\com.unity.addressables@1.16.19
       assetPath: Packages/com.unity.addressables
       name: com.unity.addressables
       displayName: Addressables
@@ -310,7 +310,7 @@ m_PackageAssets:
         verified: 1.16.19
       dependencies:
       - name: com.unity.scriptablebuildpipeline
-        version: 1.7.3
+        version: 1.15.2
       - name: com.unity.modules.assetbundle
         version: 1.0.0
       - name: com.unity.modules.unitywebrequest
@@ -319,7 +319,7 @@ m_PackageAssets:
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.scriptablebuildpipeline
-        version: 1.7.3
+        version: 1.15.2
       - name: com.unity.modules.assetbundle
         version: 1.0.0
       - name: com.unity.modules.unitywebrequest
@@ -344,13 +344,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637260182520000000
+      datePublishedTicks: 637541127300000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/Addressables.git
-        revision: 32be1f5874dbeb19b42f7e6d58f432437c6279f5
+        revision: 409be64ae2451fbde6a6e3e6fb1d6b7a1aa9a18c
         path: 
     - packageId: com.unity.ads@3.4.7
       testable: 0
@@ -3955,12 +3955,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
         revision: d2fd6ed876261bbd82f59199ad711e7667bf633a
         path: 
-    - packageId: com.unity.scriptablebuildpipeline@1.7.3
+    - packageId: com.unity.scriptablebuildpipeline@1.15.2
       testable: 0
       isDirectDependency: 0
-      version: 1.7.3
+      version: 1.15.2
       source: 1
-      resolvedPath: D:\ArdaBerkInan_QAEngineerChallenge_Unity\Library\PackageCache\com.unity.scriptablebuildpipeline@1.7.3
+      resolvedPath: D:\ArdaBerkInan_QAEngineerChallenge_Unity\Library\PackageCache\com.unity.scriptablebuildpipeline@1.15.2
       assetPath: Packages/com.unity.scriptablebuildpipeline
       name: com.unity.scriptablebuildpipeline
       displayName: Scriptable Build Pipeline
@@ -4089,13 +4089,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637260182390000000
+      datePublishedTicks: 637473059170000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/Addressables.git
-        revision: 32be1f5874dbeb19b42f7e6d58f432437c6279f5
+        revision: c238142d6dd78f465fa645cb6b4671ab3472ec99
         path: 
     - packageId: com.unity.searcher@4.3.2
       testable: 0
